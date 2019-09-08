@@ -11,20 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/realtor/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="house-22.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/media/photos/2019/02/15/house-22.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file leaf-file-name="house-23.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/media/photos/2019/02/15/house-23.jpg">
           <provider selected="true" editor-type-id="images" />
@@ -60,9 +46,23 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="home-1.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home-1.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/media/photos/2019/02/15/home-1.jpg">
           <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="booking_db.py" pinned="false" current-in-tab="true">
+        <entry file="file://G:/postgresSQLDatabase/booking_db.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -135,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="78" />
     <option name="y" value="19" />
     <option name="width" value="1146" />
@@ -339,8 +339,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20863836" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -378,13 +377,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/accounts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contacts/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -492,13 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="80" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -672,6 +657,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/media/photos/2019/02/15/home-1.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="37" column="57" selection-start-line="37" selection-start-column="57" selection-end-line="37" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/postgresSQLDatabase/booking_db.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
