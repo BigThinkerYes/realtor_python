@@ -25,7 +25,8 @@ SECRET_KEY = '0w6%(23tt138x1iasnwms9kp1ko56wm2u+b8jk4bs^vd_t%%zt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# heroku deployment
+ALLOWED_HOSTS = ['realtor-test-site.herokuapp.com']
 
 
 # Application definition
@@ -148,3 +149,8 @@ MESSAGE_TAGS = {
 # EMAIL_HOST_USER=''
 # EMAIL_HOST_PASSWORD=''
 # EMAIL_USE_TLS=True
+
+try:
+    from .local_settings import *
+except ImportError:
+    pass
