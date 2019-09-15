@@ -42,7 +42,7 @@ simplejson==3.16.0
 six==1.11.0
 soupsieve==1.8
 SpeechRecognition==3.8.1
-urllib3==1.24.2
+urllib3==1.25.3
 virtualenv==16.2.0
 web.py==0.40.dev1
 Werkzeug==0.15.5
